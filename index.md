@@ -9,7 +9,7 @@ services team within your organization.  You are welcome to contribute to this
 guide and share your own insights on strategies for building effective digital
 services teams wthin governments.  
 
-- [What is a digital services team?](what-is-a-digital-services/team)
+- [What is a digital services team?](what-is-a-digital-services-team)
 
 - [Empower](empower/)
 

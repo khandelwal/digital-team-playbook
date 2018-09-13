@@ -1,4 +1,5 @@
 ---
+layout: default
 permalink: /what-is-a-digital-services-team/
 title: What is a digital services team
 ---
