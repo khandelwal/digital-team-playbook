@@ -92,3 +92,5 @@ defaults:
     path: ""
   values:
     layout: "guides_style_18f_default"
+
+theme: jekyll-theme-minimal
