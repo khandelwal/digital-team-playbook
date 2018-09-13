@@ -19,8 +19,12 @@ services teams wthin governments.
 
 - [Repeat](repeat/)
 
+- [Retain](retain/)
 
-##Inspiration
+Here are some additional [resources](resources/) to help you build out your digital services team. 
+
+
+## Inspiration
 
 Want to see how others are standing up digital services teams within their own
 organizations?  Here's a shortlist of few success stories:
