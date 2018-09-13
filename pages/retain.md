@@ -4,6 +4,8 @@ permalink: /retain/
 title: Retain
 ---
 
+# Retain
+
 Critical to the success of any digital services team is the ability to retain
 talent once you’ve attracted it. The median tenure amongst workers in the
 private sector is roughly half that of Federal employees (4.1 years vs. 8.5

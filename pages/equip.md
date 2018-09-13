@@ -4,6 +4,8 @@ permalink: /equip/
 title: Equip
 ---
 
+# Equip
+
 As obvious as it may seem, providing the right equipment, development
 environment or design resources on day one will save numerous wasted hours
 otherwise spent by new employees on simply finding the tools they need to do

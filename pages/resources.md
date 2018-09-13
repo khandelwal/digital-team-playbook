@@ -4,6 +4,8 @@ permalink: /resources/
 title: Resources
 ---
 
+# Resources
+
 There are numerous resources available to you for your use in starting your own
 digital services team.  Here are just a few from the [18F
 Guides](https://pages.18f.gov/) and elsewhere:
