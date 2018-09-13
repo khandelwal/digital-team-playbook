@@ -3,13 +3,14 @@ layout: default
 permalink: /empower/
 title: Empower
 ---
+
 Empowering your new team is a critical steps towards clearing the path to allow them to be successful.  It may seem obvious, but as in any organization this can generally be supported by keeping the layers of reports minimal; being clear about expectations, timeframes, and responsibilities; providing opportunities for regular check-ins and transparency of operations throughout the organization; and making adjustments quickly if things aren't working.
 
 The team will need executive support and buy-in, including enduring commitment to changing the culture of digital and technology practices within your organization. Executive support gives the team the ability to engage far and wide within the agency. It also allows the team to negotiate new and faster processes.  Changes within any organization generally come with a certain amount of pain, so being responsive, honest and clear about the direction the new team will be taking is critical to success.  It's also essential to provide opportunities for other employees to become part of the process too - the best teams will be truly collaborative efforts across the agency.
 
 Change is hard. Be clear to all stakeholders that the road ahead will not be without its share of hurdles and challenges, but that the end result will benefit the entire organization, and ultimately result in better services for the American people. 
 
-###Approach
+### Approach
 Questions to ask yourself or your organization to determine if you're adequately supporting your team:
 
 1.  Have I scheduled regular checkins with my team?
