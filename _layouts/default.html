@@ -23,7 +23,11 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.navigation %}
-        <p>navigation</p>
+        {% for nav in site.navigation %}
+          <ul>
+            <li>{{ nav.text }}</li>
+          </ul>
+        {% endfor %}
         {% endif %}
 
 
