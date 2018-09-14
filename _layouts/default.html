@@ -22,6 +22,14 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
+        {% if site.github.navigation %}
+        {% for link in site.github.navigation %}
+          link
+        {% endfor %}
+
+          
+        {% endif %}
+
 
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
