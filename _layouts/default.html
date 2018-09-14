@@ -22,12 +22,8 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% if site.github.navigation %}
-        {% for link in site.github.navigation %}
-          link
-        {% endfor %}
-
-          
+        {% if site.navigation %}
+        <p>navigation</p>
         {% endif %}
 
 
