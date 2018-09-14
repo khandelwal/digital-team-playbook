@@ -24,8 +24,8 @@
 
         {% if site.navigation %}
         {% for nav in site.navigation %}
-          <ul>
-            <li>{{ nav.text }}</li>
+          <ul class="">
+            <li><a href="{{ nav.url }}">{{ nav.text }}</li>
           </ul>
         {% endfor %}
         {% endif %}
